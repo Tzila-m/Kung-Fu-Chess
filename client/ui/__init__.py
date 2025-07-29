@@ -1,1 +1,1 @@
-# Kung Fu Chess Client UI Package
+# Kung Fu Chess UI Package
