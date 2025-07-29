@@ -1,0 +1,4 @@
+websockets>=11.0
+asyncio
+pathlib
+pillow>=8.0.0
